@@ -11,6 +11,6 @@ git subtree split -P %ToolAssetPath% --branch %ToolName%
 git tag %ToolVersion% %ToolName%
 
 :: 推送到远端
-git push origin %ToolName% %ToolVersion%
-git push origin %ToolName%
+:: git push origin %ToolName% %ToolVersion%
+:: git push origin %ToolName%
 pause
