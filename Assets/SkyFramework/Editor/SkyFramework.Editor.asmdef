@@ -1,0 +1,18 @@
+{
+    "name": "SkyFramework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8533b2e34dc9ee64ea0a7cbd7cfd41d8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -5,7 +5,6 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Pp]ackages/
-/[Pp]rojectSettings/
 /[Uu]serSettings/
 /Assets/AssetStoreTools*
 /.idea/
@@ -33,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Odin
+/Assets/Plugins/Sirenix
